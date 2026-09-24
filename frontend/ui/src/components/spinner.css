@@ -1,0 +1,28 @@
+[data-component="spinner"] {
+  color: inherit;
+  flex-shrink: 0;
+  width: 18px;
+  height: 22px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@keyframes biohelix-dna-spin {
+  0% {
+    transform: rotateY(0deg);
+  }
+  100% {
+    transform: rotateY(360deg);
+  }
+}
+
+@keyframes biohelix-dna-glow {
+  0%, 100% {
+    filter: drop-shadow(0 0 2px rgba(99, 102, 241, 0.35));
+  }
+  50% {
+    filter: drop-shadow(0 0 6px rgba(139, 92, 246, 0.75));
+  }
+}
+

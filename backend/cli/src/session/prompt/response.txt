@@ -1,0 +1,4 @@
+## Response structure
+- Lead with the direct answer or outcome.
+- Use clear GitHub-flavored Markdown. Avoid conversational filler, preambles, or redundant summaries.
+- Use tools to execute computations, searches, or file operations directly.

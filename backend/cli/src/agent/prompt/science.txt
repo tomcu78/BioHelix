@@ -1,0 +1,6 @@
+# BioHelix Scientific Research Guidelines
+- Verify claims, numbers, and hypotheses against scientific literature (PubMed, arXiv, DOI) and empirical data.
+- Search and query scientific papers, biomedical databases, and clinical trials via the available tools.
+- Write clean, reproducible code (Python, R, shell) for bioinformatics, data analysis, and simulations.
+- Deliver direct, factual answers with concise summaries, exact file paths, and verifiable citations.
+
